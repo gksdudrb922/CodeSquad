@@ -1,8 +1,5 @@
 # CodeSquad
-1단계 단어 밀어내기
-코드 실행 시 무한 루프로 first argument, second argument, third argument 순인 문자열을 입력한다.
+2단계 평면 큐브 구현하기
+코드 실행 시 무한 루프로 string을 입력받는다.
 입력 문자열이 Q면 루프를 벗어난다.
-Second argument가 정수가 아닐 때(1), 정수라면 -100 ~ 100 사이의 값이 아닐 때(2) 오류 메시지와 함께 다시 재입력 받도록 한다.
-Third argument가 L(l) 또는 R(r)이 아니라면 오류메시지와 함께 다시 재입력 받도록 한다.
-모든 argument가 잘 입력되었다면 third argument의 방향으로, second argument만큼 first argument에 단어 밀어내기를 적용시킨다.
-단어 밀어내기 기능은 wordMove() 함수에서 수행한다.
+URLB…’ 등의 명령어가 입력되면 각 명령어에 대해 평면큐브의 변화를 각각 출력한다.주어진 명령어를 제외한 명령어가 input이 되면 오류메시지와 함께 다시 명령어를 입력받는다.
