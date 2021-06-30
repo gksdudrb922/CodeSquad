@@ -2,6 +2,7 @@ package codesquad;
 
 import java.util.Scanner;
 
+//М│░К╦▄
 class Cube
 {
 	char cube[][];
@@ -106,7 +107,7 @@ public class Problem02 {
 			System.out.print("CUBE> ");
 			String input=in.nextLine();
 			
-			// а╬╥А ╫ца║
+			// О©╫О©╫О©╫О©╫ О©╫О©╫О©╫О©╫
 			if(input.equals("Q"))
 			{
 				System.out.println("Bye~");
